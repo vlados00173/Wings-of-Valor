@@ -51,15 +51,6 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Light",
-                    "type": "Button",
-                    "id": "c25466f6-711d-4591-860a-54de4548380c",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
                     "name": "Fly",
                     "type": "Button",
                     "id": "0dd1e8d3-e5b0-4d06-9e5c-f27fc8f4cf18",
@@ -309,17 +300,6 @@
                     "processors": "",
                     "groups": "",
                     "action": "Attack",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "004a3457-8e1f-49f8-9477-ef354858fdfd",
-                    "path": "<Keyboard>/l",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Light",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -847,6 +827,54 @@
                     "processors": "",
                     "groups": "XR",
                     "action": "TrackedDeviceOrientation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Animal",
+            "id": "9e245cc9-76e4-4988-a9c1-446170011a5c",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "3f967cf2-477e-4403-9171-2ad67605e27c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Light",
+                    "type": "Button",
+                    "id": "028885a9-e0c4-4ac7-8d0b-419b886589f3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "757bd893-df43-467c-9560-954622bf5164",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c4cd51c4-7ffe-4f78-a4e2-4f5c1572bd0d",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Light",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
