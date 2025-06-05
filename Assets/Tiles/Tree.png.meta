@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Vegetation Tileset 2_0
+      name: Tree_0
       rect:
         serializedVersion: 2
         x: 7
@@ -133,18 +133,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 2f118de7862a29944b50f977303897ea
-      internalID: 973988789
+      spriteID: e00e218b3d50e664cb6b88fb4f9beb93
+      internalID: 1433036557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_1
+      name: Tree_1
       rect:
         serializedVersion: 2
         x: 110
@@ -154,18 +162,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 71bd105dcb73a3c4891f6ff4d8eda9c0
-      internalID: 1558294170
+      spriteID: fe49e900e00852d468bea90e8d00d526
+      internalID: 1379151579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_2
+      name: Tree_2
       rect:
         serializedVersion: 2
         x: 236
@@ -175,18 +191,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 1789d116b39443046bbab30eb459cda2
-      internalID: -133008941
+      spriteID: 20a773c136db8cd42898a118d68fb62b
+      internalID: -488790506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_3
+      name: Tree_3
       rect:
         serializedVersion: 2
         x: 381
@@ -196,18 +220,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: b65ce4edf6f03b14bb2a8bd5b118203e
-      internalID: -1090584220
+      spriteID: 5057a4833f5f6d54c83c943ab59120e3
+      internalID: -2000018667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_4
+      name: Tree_4
       rect:
         serializedVersion: 2
         x: 527
@@ -217,18 +249,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 07c5872aae9b25e4b9a469ff1c83ed33
-      internalID: 282427956
+      spriteID: 83456da0da5653040a9e774a1d2f765b
+      internalID: -534158388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_5
+      name: Tree_5
       rect:
         serializedVersion: 2
         x: 609
@@ -238,18 +278,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 9aefb268b3689034fbda12e68d5f013d
-      internalID: -215455603
+      spriteID: 9a5571d2e9cf1054ba0b2980bc7142c1
+      internalID: -1337531873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_6
+      name: Tree_6
       rect:
         serializedVersion: 2
         x: 657
@@ -259,18 +307,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 25b036352196e944e8efea26c6b178bf
-      internalID: 1601811250
+      spriteID: 90956509ae666c04cbbc72348f0f848e
+      internalID: 1902842523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_7
+      name: Tree_7
       rect:
         serializedVersion: 2
         x: 721
@@ -280,18 +336,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: ceb82432fcf53df46b7048754897da5f
-      internalID: 1444687657
+      spriteID: 4034defde8da32947a04e9fa59bb859d
+      internalID: -173321788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_8
+      name: Tree_8
       rect:
         serializedVersion: 2
         x: 753
@@ -301,18 +365,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 7a7eb29a7e00f9242a4ca305146f68ed
-      internalID: -1362048713
+      spriteID: 7c97be499698fe74e9dd2ad39cd3c2d6
+      internalID: -1812994291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_9
+      name: Tree_9
       rect:
         serializedVersion: 2
         x: 929
@@ -322,18 +394,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 501c98d398be23547bd514861f606853
-      internalID: -817584670
+      spriteID: e8d9f32c6c7593f4d85b4b741bb6376b
+      internalID: -2140024920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_10
+      name: Tree_10
       rect:
         serializedVersion: 2
         x: 7
@@ -343,18 +423,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 8ca78cca3278b7e4f96d82d693f7c298
-      internalID: 1054058089
+      spriteID: 070a0058e878b9f4391cf3b6b895b30e
+      internalID: -421968326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_11
+      name: Tree_11
       rect:
         serializedVersion: 2
         x: 109
@@ -364,18 +452,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 1a6fdacee0ea44144926aa209e815260
-      internalID: 1127194462
+      spriteID: 36528180c8094b44a8cdd3ebea32dfc1
+      internalID: 934613743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_12
+      name: Tree_12
       rect:
         serializedVersion: 2
         x: 236
@@ -385,18 +481,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 214edaad32b160a4f97983b51e73975c
-      internalID: 255961795
+      spriteID: 31d8456952871894d984d368917df9ed
+      internalID: 1771762642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_13
+      name: Tree_13
       rect:
         serializedVersion: 2
         x: 381
@@ -406,18 +510,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: d3892fd8189e776428638e59d9c52ca4
-      internalID: 2134682351
+      spriteID: 5f0110729e99bbe4cab56edbb0fdee7a
+      internalID: 826259087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_14
+      name: Tree_14
       rect:
         serializedVersion: 2
         x: 527
@@ -427,18 +539,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: c46c566271f10ca4f877afb22d6aa776
-      internalID: 1222485650
+      spriteID: f050eb4056577554a9c7a03f8ab7c42f
+      internalID: -553886388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_15
+      name: Tree_15
       rect:
         serializedVersion: 2
         x: 608
@@ -448,18 +568,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 3331dd87e036b1f42812286cf07ecd3d
-      internalID: 1022802708
+      spriteID: 1717bac4ae3334a40b3c6a8bd749a2ab
+      internalID: -285094174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_16
+      name: Tree_16
       rect:
         serializedVersion: 2
         x: 657
@@ -469,18 +597,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 379bab681d7b87f4286f6b70f1e0235f
-      internalID: 2010690755
+      spriteID: eb5734189f0289646b2ffe3f38ad68ff
+      internalID: -1257192030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_17
+      name: Tree_17
       rect:
         serializedVersion: 2
         x: 721
@@ -490,18 +626,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 161a0e67b27236d4eb9bce8934801f7f
-      internalID: -1381652685
+      spriteID: 543374f6c3304ba4b8cab447d2d14d50
+      internalID: -1914590265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_18
+      name: Tree_18
       rect:
         serializedVersion: 2
         x: 753
@@ -511,18 +655,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: b86078d74c0bd4348a8050d3a89f7e24
-      internalID: 56227505
+      spriteID: 8c4e9b795be812941a142534bad0be73
+      internalID: 1335177555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_19
+      name: Tree_19
       rect:
         serializedVersion: 2
         x: 929
@@ -532,18 +684,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 89fa41ee6e6c47f4a9a0f2c525369f29
-      internalID: -1301838082
+      spriteID: a30c47b69fab330429a0c8e5dcbcb461
+      internalID: 1732269748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_20
+      name: Tree_20
       rect:
         serializedVersion: 2
         x: 7
@@ -553,18 +713,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 0385ec5d9ad578e4e889bb6c83caa131
-      internalID: 572750903
+      spriteID: e088b98d7a5231445bc8e107597e706a
+      internalID: -1046050211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_21
+      name: Tree_21
       rect:
         serializedVersion: 2
         x: 109
@@ -574,18 +742,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 55c2e68dac666a44aa10fd60a5138932
-      internalID: 510601515
+      spriteID: 74df3c46ef109db48bed9541741ce839
+      internalID: 28414210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_22
+      name: Tree_22
       rect:
         serializedVersion: 2
         x: 236
@@ -595,18 +771,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 7e2ffc2bb9b9af14688614cac1bc158e
-      internalID: -1127297166
+      spriteID: 2d97629c5be290a40994138513ff2481
+      internalID: 1727343382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_23
+      name: Tree_23
       rect:
         serializedVersion: 2
         x: 381
@@ -616,18 +800,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 6f299af59b0209942acd5fe3b36380af
-      internalID: 1426979166
+      spriteID: a506b6d96769c884aa73b84f55f749de
+      internalID: -1214679437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_24
+      name: Tree_24
       rect:
         serializedVersion: 2
         x: 527
@@ -637,18 +829,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 09158da17477eab438268b0cce47bf21
-      internalID: -587056412
+      spriteID: 61022493d15aa10448ab069b0fac9235
+      internalID: -1285931593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_25
+      name: Tree_25
       rect:
         serializedVersion: 2
         x: 609
@@ -658,18 +858,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 805c537262b31cc46b340ed47ff51b7c
-      internalID: -759690313
+      spriteID: 2c643e617ff81114bab93c21167a509c
+      internalID: 1306888091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_26
+      name: Tree_26
       rect:
         serializedVersion: 2
         x: 657
@@ -679,18 +887,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 836f146246ce07b48bc07141fb0c1df3
-      internalID: 127179547
+      spriteID: 660ea0b350fd9ce4c8401f2324b49a96
+      internalID: -1877119483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_27
+      name: Tree_27
       rect:
         serializedVersion: 2
         x: 721
@@ -700,18 +916,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: b80bdadd4e64e2545b325cf795a82bdf
-      internalID: 168092363
+      spriteID: 188863818a8da13499cd72d8dddb3220
+      internalID: -2094226235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_28
+      name: Tree_28
       rect:
         serializedVersion: 2
         x: 753
@@ -721,18 +945,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: eb12bf31dd174aa498f548aa743c6d7f
-      internalID: -1832514055
+      spriteID: 1fe55bd328bb47d428d8d780cc800cb2
+      internalID: -1724461263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_29
+      name: Tree_29
       rect:
         serializedVersion: 2
         x: 929
@@ -742,18 +974,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 01adb4159c69a914398158a50baec57e
-      internalID: -1780494866
+      spriteID: f562f905590a7594981925247db37a57
+      internalID: -1149061748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_30
+      name: Tree_30
       rect:
         serializedVersion: 2
         x: 12
@@ -763,18 +1003,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 01c4763d8bbf50649b9222fb75748f2e
-      internalID: 391715306
+      spriteID: a5e85e042b118c943b10618b83604f93
+      internalID: 2134825807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_31
+      name: Tree_31
       rect:
         serializedVersion: 2
         x: 118
@@ -784,18 +1032,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: f8cf6bf4c7d241b4780b014bfa3681f5
-      internalID: -297602933
+      spriteID: 9c4fbb35207262045a7a54c898e7ae95
+      internalID: 704369695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_32
+      name: Tree_32
       rect:
         serializedVersion: 2
         x: 200
@@ -805,18 +1061,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 9f4eaf1effd21754bbb656ac26515eac
-      internalID: -1755878025
+      spriteID: 33987d01bb7cccf4f82af1488ea25364
+      internalID: 1303506175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_33
+      name: Tree_33
       rect:
         serializedVersion: 2
         x: 359
@@ -826,18 +1090,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 8aa0c5f9ff6a5604f9f07da37b955811
-      internalID: -505261133
+      spriteID: 788e0fce2e94c3a429c3f0517ea749be
+      internalID: 806312044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_34
+      name: Tree_34
       rect:
         serializedVersion: 2
         x: 441
@@ -847,18 +1119,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: e62593d1a186d994ab517cd86eaecf3b
-      internalID: 144202632
+      spriteID: c8efbda3608c5174098488de66caa41b
+      internalID: -701970500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_35
+      name: Tree_35
       rect:
         serializedVersion: 2
         x: 615
@@ -868,18 +1148,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 471202273c7d3c8438d639c50806c884
-      internalID: 1596326424
+      spriteID: 00a50a486c683fc40816b4667a57a493
+      internalID: 1157058449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_36
+      name: Tree_36
       rect:
         serializedVersion: 2
         x: 697
@@ -889,18 +1177,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 075342f9063023f4db804638eb246617
-      internalID: 1061838455
+      spriteID: ec8ffe4fa3ca61a43aea558657aae171
+      internalID: -1421525882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_37
+      name: Tree_37
       rect:
         serializedVersion: 2
         x: 16
@@ -910,18 +1206,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 7b2d5856e8bdd5b4e94fde5e446440b3
-      internalID: -1957301801
+      spriteID: 80f4737817d34834eb80557487ca6f8a
+      internalID: 2123184839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_38
+      name: Tree_38
       rect:
         serializedVersion: 2
         x: 288
@@ -931,18 +1235,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 9084ef14c60fbdb4b82713c54cb3e279
-      internalID: 1936527538
+      spriteID: dcf0afa1401157d469f2aae473508351
+      internalID: -1628130780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_39
+      name: Tree_39
       rect:
         serializedVersion: 2
         x: 529
@@ -952,18 +1264,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 2ef4939029cdaa44e971d8a17afc98d8
-      internalID: 1410269177
+      spriteID: 7d7e985c06bf27947a114ac67db62e49
+      internalID: 958055007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Vegetation Tileset 2_40
+      name: Tree_40
       rect:
         serializedVersion: 2
         x: 785
@@ -973,12 +1293,20 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 16, y: 0}
+        - {x: 0, y: 16}
+        - {x: -16, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: ce953ead0c2bebc4592cf2ee0a7fc067
-      internalID: -981256219
+      spriteID: 20b142f0622881f43933a7309b7d2d3f
+      internalID: -1801422038
       vertices: []
       indices: 
       edges: []
@@ -994,47 +1322,47 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Vegetation Tileset 2_0: 973988789
-      Vegetation Tileset 2_1: 1558294170
-      Vegetation Tileset 2_10: 1054058089
-      Vegetation Tileset 2_11: 1127194462
-      Vegetation Tileset 2_12: 255961795
-      Vegetation Tileset 2_13: 2134682351
-      Vegetation Tileset 2_14: 1222485650
-      Vegetation Tileset 2_15: 1022802708
-      Vegetation Tileset 2_16: 2010690755
-      Vegetation Tileset 2_17: -1381652685
-      Vegetation Tileset 2_18: 56227505
-      Vegetation Tileset 2_19: -1301838082
-      Vegetation Tileset 2_2: -133008941
-      Vegetation Tileset 2_20: 572750903
-      Vegetation Tileset 2_21: 510601515
-      Vegetation Tileset 2_22: -1127297166
-      Vegetation Tileset 2_23: 1426979166
-      Vegetation Tileset 2_24: -587056412
-      Vegetation Tileset 2_25: -759690313
-      Vegetation Tileset 2_26: 127179547
-      Vegetation Tileset 2_27: 168092363
-      Vegetation Tileset 2_28: -1832514055
-      Vegetation Tileset 2_29: -1780494866
-      Vegetation Tileset 2_3: -1090584220
-      Vegetation Tileset 2_30: 391715306
-      Vegetation Tileset 2_31: -297602933
-      Vegetation Tileset 2_32: -1755878025
-      Vegetation Tileset 2_33: -505261133
-      Vegetation Tileset 2_34: 144202632
-      Vegetation Tileset 2_35: 1596326424
-      Vegetation Tileset 2_36: 1061838455
-      Vegetation Tileset 2_37: -1957301801
-      Vegetation Tileset 2_38: 1936527538
-      Vegetation Tileset 2_39: 1410269177
-      Vegetation Tileset 2_4: 282427956
-      Vegetation Tileset 2_40: -981256219
-      Vegetation Tileset 2_5: -215455603
-      Vegetation Tileset 2_6: 1601811250
-      Vegetation Tileset 2_7: 1444687657
-      Vegetation Tileset 2_8: -1362048713
-      Vegetation Tileset 2_9: -817584670
+      Tree_0: 1433036557
+      Tree_1: 1379151579
+      Tree_10: -421968326
+      Tree_11: 934613743
+      Tree_12: 1771762642
+      Tree_13: 826259087
+      Tree_14: -553886388
+      Tree_15: -285094174
+      Tree_16: -1257192030
+      Tree_17: -1914590265
+      Tree_18: 1335177555
+      Tree_19: 1732269748
+      Tree_2: -488790506
+      Tree_20: -1046050211
+      Tree_21: 28414210
+      Tree_22: 1727343382
+      Tree_23: -1214679437
+      Tree_24: -1285931593
+      Tree_25: 1306888091
+      Tree_26: -1877119483
+      Tree_27: -2094226235
+      Tree_28: -1724461263
+      Tree_29: -1149061748
+      Tree_3: -2000018667
+      Tree_30: 2134825807
+      Tree_31: 704369695
+      Tree_32: 1303506175
+      Tree_33: 806312044
+      Tree_34: -701970500
+      Tree_35: 1157058449
+      Tree_36: -1421525882
+      Tree_37: 2123184839
+      Tree_38: -1628130780
+      Tree_39: 958055007
+      Tree_4: -534158388
+      Tree_40: -1801422038
+      Tree_5: -1337531873
+      Tree_6: 1902842523
+      Tree_7: -173321788
+      Tree_8: -1812994291
+      Tree_9: -2140024920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
